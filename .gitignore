@@ -12,3 +12,8 @@ wheels/
 
 # Data
 the_odyssey.txt
+# Desafio 4: datos y pesos que descarga/genera el notebook
+spa-eng/
+spa-eng.zip
+gloveembedding.pkl
+models_desafio4/
